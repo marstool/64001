@@ -13,3 +13,6 @@ weight = 20
 
 * [010 蘇聯粵語]({{%relref "640010__su_lian01/_index.md" %}})
 
+
+* [040 BBC新闻档案节选：六四清场报道 ]({{%relref "640040__bbc_cn_2014_jun_2/_index.md" %}})
+
