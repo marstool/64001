@@ -1,45 +1,52 @@
 [
 {
-	"uri": "/640001_tank_man/",
+	"uri": "/640001__tank_man/",
 	"title": "001 广场坦克人图片 8964 tank man",
 	"tags": [],
 	"description": "",
 	"content": "  8964 tank 01     8964 tank 02     8964 tank 03     8964 tank 04     8964 tank 05   "
 },
 {
-	"uri": "/640010__su_lian01/",
-	"title": "010 蘇聯粵語",
+	"uri": "/640003__su_lian01/",
+	"title": "003 蘇聯粵語",
 	"tags": [],
 	"description": "",
 	"content": "Your browser does not support the video tag. 蘇聯粵語  "
 },
 {
-	"uri": "/640030__leica_the_hunter_disrgibw3bg/",
-	"title": "030 徕卡相机64广告片 Leica_the_hunter",
+	"uri": "/640005__leica_the_hunter_disrgibw3bg/",
+	"title": "005 徕卡相机64广告片 Leica_the_hunter",
 	"tags": [],
 	"description": "",
 	"content": "Your browser does not support the video tag. Leica_the_hunter Large  Your browser does not support the video tag. Leica_the_hunter Small  "
 },
 {
-	"uri": "/640040__bbc_cn_2014_jun_2/",
-	"title": "040 BBC新闻档案节选：六四清场报道 ",
+	"uri": "/640007__bbc_cn_2014_jun_2/",
+	"title": "007 BBC新闻档案节选：六四清场报道 ",
 	"tags": [],
 	"description": " https://www.youtube.com/watch?v=Ea3LiY7aMVI 六四事件26周年之际，BBC中文YouTube回顾当年BBC对民运的一些报道，此短片收录了1989年6月3日下午1时以及6月4日晚上9时的BBC电视新闻中有关天安门广场情况的报道。记者分别是John Simpson 和 Kate Adie。",
 	"content": "Your browser does not support the video tag. 1989_6_4_BBC  "
 },
 {
-	"uri": "/640051__starts_history_198964/",
-	"title": "051 1989-群星〔歷史的傷口〕Music作品輯 ",
+	"uri": "/640009__starts_history_198964/",
+	"title": "009 1989-群星〔歷史的傷口〕Music作品輯 ",
 	"tags": [],
 	"description": " https://www.youtube.com/watch?v=JJAuMK7l1AE https://www.youtube.com/watch?v=BknMkS8mBeM ",
 	"content": "Your browser does not support the video tag. 1989-群星〔歷史的傷口〕Music作品輯  "
+},
+{
+	"uri": "/640011__i_am_the_reporter/",
+	"title": "011 六四30周年 - 我是記者 我的六四故事",
+	"tags": [],
+	"description": "",
+	"content": " Your browser does not support the video tag. 20190430__opmbgrcdwjg.19m.mp4  20190430__opmbgrcdwjg.19m.mp4\n Your browser does not support the video tag. 20190430__opmbgrcdwjg.71m.mp4  20190430__opmbgrcdwjg.71m.mp4\n "
 },
 {
 	"uri": "/",
 	"title": "六四故事001",
 	"tags": [],
 	"description": " 图片版，防止 防火墙 关键字 过滤， 墙内直接可看 ",
-	"content": " 001 广场坦克人图片 8964 tank man\n 010 蘇聯粵語\n 030 徕卡相机64广告片 Leica_the_hunter\n 040 BBC新闻档案节选：六四清场报道 \n 051 1989-群星〔歷史的傷口〕Music作品輯 \n  "
+	"content": " 001 广场坦克人图片 8964 tank man\n 003 蘇聯粵語\n 005 徕卡相机64广告片 Leica_the_hunter\n 007 BBC新闻档案节选：六四清场报道 \n 009 1989-群星〔歷史的傷口〕Music作品輯 \n 011 六四30周年 - 我是記者 我的六四故事\n  "
 },
 {
 	"uri": "/categories/",
