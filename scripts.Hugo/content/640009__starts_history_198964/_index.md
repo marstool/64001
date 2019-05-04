@@ -4,6 +4,11 @@ description = " https://www.youtube.com/watch?v=JJAuMK7l1AE https://www.youtube.
 weight = 20
 +++
 
+{{< myaudio01 mp3="20130603_jjaumk7l1ae.mp3" >}}
+
+{{< myvideo01 mp4="20130603_jjaumk7l1ae.mp4" >}}
+
+<!--
 <video width="95%" preload="none" 
 poster="20130603_jjaumk7l1ae.mp4.jpg"
 controls>
@@ -11,4 +16,4 @@ controls>
 type="video/mp4">
 Your browser does not support the video tag.  1989-群星〔歷史的傷口〕Music作品輯 
 </video> 
-
+-->

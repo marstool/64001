@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/640001__tank_man/</loc>
   </url>
   
@@ -24,10 +28,6 @@
   
   <url>
     <loc>/640011__i_am_the_reporter/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
