@@ -23,3 +23,6 @@ weight = 20
 
 * [ 001 广场坦克人图片 8964 tank man ]({{< relref "640001__tank_man" >}})
 
+
+* [  640000 广场坦克人CNN原版录像  ]({{< relref "640000__tank_man_cnn" >}})
+

@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = " https://www.jjj123.com https://mp3s.jjj123.com"
+title = " 64广场故事集001 "
 theme = "hugo-theme-docdock"
 #themesdir = "../.."
 themesdir = "./themes"
